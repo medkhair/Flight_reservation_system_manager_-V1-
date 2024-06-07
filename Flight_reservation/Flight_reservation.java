@@ -188,10 +188,10 @@ class FlightApp{
 		ArrayList<Reservation> ress = new ArrayList<Reservation>();
 		ArrayList<Flight> flights = new ArrayList<Flight>();
 		ArrayList<String> cities = new ArrayList<String>();
-		LocalDateTime DepartMadridMarrakech = LocalDateTime.of(2024,6,21,2,30);
-		LocalDateTime ArriveMadridMarrakech = LocalDateTime.of(2024,6,21,5,30);
-		LocalDateTime DepartCasaBlancaMoskow = LocalDateTime.of(2024,5,30,6,00);
-		LocalDateTime ArriveCasaBlancaMoskow = LocalDateTime.of(2024,5,30,10,00);
+		LocalDateTime DepartMadridMarrakech = LocalDateTime.of(2025,6,21,2,30);
+		LocalDateTime ArriveMadridMarrakech = LocalDateTime.of(2025,6,21,5,30);
+		LocalDateTime DepartCasaBlancaMoskow = LocalDateTime.of(2025,5,30,6,00);
+		LocalDateTime ArriveCasaBlancaMoskow = LocalDateTime.of(2025,5,30,10,00);
 		LocalDateTime DepartDubaiNewyork = LocalDateTime.of(2024,4,30,6,00);
 		LocalDateTime ArriveDubaiNewyork = LocalDateTime.of(2024,4,30,10,00);
 		Flight f1 = new Flight("RyanAir","152478","Boing500",15000,0,20,DepartMadridMarrakech,"Madrid",ArriveMadridMarrakech,"Marrakech");
