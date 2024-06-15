@@ -1,5 +1,0 @@
-Flight Reservation System:
-	-Use classes to represent flights, passengers, and reservations.
-	-Implement interfaces for booking flights, managing reservations, and checking seat availability.
-	-Use arrays or lists to store flight schedules and passenger information.
-	-Implement a tree structure for organizing flights by routes or airlines.
